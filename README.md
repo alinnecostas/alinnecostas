@@ -31,7 +31,7 @@ Minha stack inclui: <strong>Desenvolvimento Mobile e Front-End:</strong> HTML, C
 <p align="left">
   <a href="https://outlook.live.com/mail/0/a-linnejs@hotmail.com/" title="E-mail">
   <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL) alt="Outlook/></a>
-  <a href="https://www.linkedin.com/in/alinne-costa-3b9813b6/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/alinnecostas/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511991621048" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
