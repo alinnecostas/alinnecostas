@@ -10,15 +10,36 @@
 
 <p align="left"> 
 
-Tenho como principal objetivo me tornar uma desenvolvedora. Tenho afinidade com C# e back-end, mas também atuo com proficiência no front-end, buscando sempre unir lógica e experiência do usuário. Entendo que essa é uma trajetória contínua, por isso sigo estudando banco de dados, criação e consumo de APIs, e novas funcionalidades tanto no front quanto no back-end, com foco em evoluir de forma completa e consistente na área.
+Tenho como principal objetivo me tornar uma desenvolvedora. 🚀 
 
  <br>
 </p>
 
+<p align="left"> 
+Minha trajetória profissional começou no Direito, onde atuei com responsabilidade, empatia e resolução de problemas em ambientes de alta pressão, como a AGU e a Ouvidoria da Prefeitura de São Paulo. Foi ali que aprendi a lidar com sistemas complexos, tomada de decisão rápida e impacto direto na vida das pessoas.
+
+Com o tempo, percebi que poderia unir essa bagagem humana e analítica à inovação. Hoje, estou em transição para a área de tecnologia, desenvolvendo competências técnicas em C#, back-end, banco de dados, APIs e front-end. Minha formação atual em Análise e Desenvolvimento de Sistemas e participação no Programa Transforme-se (Senac/Serasa/Gerando Falcões) reforçam meu compromisso com a aprendizagem contínua e a construção de soluções eficientes.
+
+Meu diferencial está na junção entre visão sistêmica, lógica, capacidade de comunicação e foco em entrega com propósito. Quero atuar em times colaborativos, aprendendo na prática e contribuindo com uma visão completa — do código ao impacto no usuário final.
+</p>
  
 <p align="left">
-  💌 Sempre estou em busca de aprender coisas novas e colaborar em projetos interessantes.  
-  Aqui está meus contato para conversarmos: ⤵️
+  📚 Formação e Programas
+Tecnólogo em Análise e Desenvolvimento de Sistemas – Descomplica Faculdade Digital (em andamento)
+
+Foco em desenvolvimento de software, front-end, POO, banco de dados e metodologias ágeis.
+
+Programa Transforme-se com Serasa (Senac/Gerando Falcões) – nov/2024 – ago/2026
+
+Formação técnica com foco em lógica de programação, C#, banco de dados, desenvolvimento desktop e web.
+
+Bacharelado em Direito – UNIALFA – 2016 a 2020
+
+Ênfase em Direito Público e Privado, práticas jurídicas e trabalho com foco social.
+
+Técnico em Administração – ETEC – 2011 a 2012
+
+Experiência em gestão, organização e empreendedorismo. ⤵️
 </p>
 
 <p align="left">
