@@ -18,7 +18,7 @@ Tenho como principal objetivo me tornar uma desenvolvedora. 🚀
 <p align="left"> 
 Minha trajetória começou no Direito, atuando em contextos de alta pressão, onde desenvolvi análise crítica, empatia e resolução de problemas complexos.
 
-Hoje, estou em transição para a área de tecnologia, com foco em C#, back-end, APIs, banco de dados e front-end. Estudo Análise e Desenvolvimento de Sistemas e participo do Programa Transforme-se, desenvolvendo habilidades técnicas e projetos práticos.
+Hoje, estou em transição para a área de tecnologia, aprendendo em C#, fazendo projetos back-end, APIs, banco de dados e passando também pelo front-end. Estudo Análise e Desenvolvimento de Sistemas e participo do Programa Transforme-se, desenvolvendo habilidades técnicas e projetos práticos.
 
 Unindo raciocínio lógico, visão sistêmica e comunicação clara, busco contribuir com soluções eficientes e humanas, do código ao impacto final no usuário.
 </p>
