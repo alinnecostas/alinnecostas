@@ -10,19 +10,12 @@
 
 <p align="left"> 
 
-Sou uma desenvolvedora passando por transição, estudando e me apaixonando pelo mundo da tecnologia e programação! 
-Minha stack inclui: <strong>Desenvolvimento Mobile e Front-End:</strong> HTML, CSS, JavaScript.<br>
+Tenho como principal objetivo me tornar uma desenvolvedora. Tenho afinidade com C# e back-end, mas também atuo com proficiência no front-end, buscando sempre unir lógica e experiência do usuário. Entendo que essa é uma trajetória contínua, por isso sigo estudando banco de dados, criação e consumo de APIs, e novas funcionalidades tanto no front quanto no back-end, com foco em evoluir de forma completa e consistente na área.
+
+ <br>
 </p>
 
-<p align="left">
-  🦄 Linguagens: Sou fã da linguagem Kotlin, que oferece recursos modernos e concisos para o desenvolvimento Android, e Java. 
-
-</p>
-
-<p align="left">
-  💼 Ferramentas: Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA
-</p>
-
+ 
 <p align="left">
   💌 Sempre estou em busca de aprender coisas novas e colaborar em projetos interessantes.  
   Aqui está meus contato para conversarmos: ⤵️
