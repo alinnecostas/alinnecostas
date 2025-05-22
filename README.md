@@ -31,11 +31,11 @@ Foco em desenvolvimento de software, front-end, POO, banco de dados e metodologi
 
  <br>
  
-📚  Programa Transforme-se com Serasa (Senac/Gerando Falcões) – nov/2024 – ago/2026
+📚  Programa Transforme-se com Serasa (Senac/Gerando Falcões) – mai/2025  
 
 Formação técnica com foco em lógica de programação, C#, banco de dados, desenvolvimento desktop e web.
 
-
+ <br>
 Bacharelado em Direito 
 
 Técnico em Administração – ETEC 
